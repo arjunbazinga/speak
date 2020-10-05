@@ -1,6 +1,6 @@
 # speak
 
-google tts based select to speak
+Select any text and have it read out loud
 
 # install
 
