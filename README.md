@@ -1,12 +1,13 @@
-# speak
+# ![](./megaphone.svg) speak
 
-Select any text and have it read out loud
+Select any text and have it read out loud, uses google wavenet api for good quality audio.
 
 # install
 
+1. clone repo
 1. get dependencies
-2. change path to gcp credentials in `speak.sh`
-3. add keyboard shortcut
+1. change path to gcp credentials in `speak.sh`
+1. add keyboard shortcut
 
 # dependencies
 
